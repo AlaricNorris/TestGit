@@ -1,5 +1,7 @@
 package com.alaric.norris.games.MineNewStyle.ui ;
 
+import com.alaric.norris.games.MineNewStyle.R ;
+
 import android.os.Bundle ;
 import android.app.Activity ;
 import android.view.Menu ;
