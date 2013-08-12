@@ -6,19 +6,18 @@ import android.os.Bundle;
 public class MainActivity extends Activity
 {
 
+	@Override
 	public void onCreate(Bundle savedInstanceState)
 	{
 		super.onCreate( savedInstanceState );
 		setContentView( R.layout.act_main );
 
 		// µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥µÄ¶¥¶¥¶¥¶¥¶¥µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥
-		
-		
-		
-		//asdfasdfasdfsadfasdf
-		//asdf
-		
-		
+		// ËïÁèÔÆ2
+
+		// asdfasdfasdfsadfasdf
+		// asdf
+
 		// °¢Ë¹µÙ·Ò
 	}
 
