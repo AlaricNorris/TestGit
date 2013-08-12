@@ -14,6 +14,11 @@ public class MainActivity extends Activity
 		// µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥µÄ¶¥¶¥¶¥¶¥¶¥µÄ¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥
 		
 		
+		
+		//asdfasdfasdfsadfasdf
+		//asdf
+		
+		
 		// °¢Ë¹µÙ·Ò
 	}
 
